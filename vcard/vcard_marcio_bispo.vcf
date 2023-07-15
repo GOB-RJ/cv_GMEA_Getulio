@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//QR-Code-Generator.com//EN
+N:Bispo;Marcio;;;
+FN:Marcio Bispo
+ORG:GOB-RJ;
+TITLE:Secretario - SECI
+EMAIL;TYPE=PREF,INTERNET:seci@gob-rj.org.br
+TEL;TYPE=CELL,voice:+5521981210005
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;; ;;;;
+URL:
+
+NOTE:
+
+REV:2008-04-24T19:52:43Z
+END:VCARD
