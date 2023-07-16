@@ -1,16 +1,18 @@
 BEGIN:VCARD
 VERSION:3.0
+PRODID:-//QR-Code-Generator.com//EN
 N:Pereira;Getúlio José;;;
 FN:Getúlio José Pereira
-ORG:GOB-RJ 
+ORG:GOB-RJ;
 TITLE:Grão-Mestre Adjunto
-item1.TEL:+552199991-1831
-item1.X-ABLabel:Celular
-item2.URL:https://gob-rj.org.br/portal/
-item2.X-ABLabel:OTHER
-item3.EMAIL;type=INTERNET:gmadjunto@gob-rj.org.br
-item3.X-ABLabel:INTERNET
-item4.ADR:;;Avenida Presidente Vargas 502;Rio de Janeiro;RJ;20071-000;Brazil
-item4.X-ABADR:
-item4.X-ABLabel:Comercial
+EMAIL;TYPE=PREF,INTERNET:gmadjunto@gob-rj.org.br
+TEL;TYPE=CELL,voice:+552499991-1831
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;;Avenida Presidente Vargas 502;Rio de Janeiro;RJ;20071-000;Brazil
+URL:https://gob-rj.org.br/portal/
+
+NOTE:
+
+REV:2008-04-24T19:52:43Z
 END:VCARD
